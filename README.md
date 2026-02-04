@@ -1,17 +1,17 @@
-# Dex Explorer
+# DeX Explorer
 ![Preview](https://raw.githubusercontent.com/AZYsGithub/DexPlusPlus/main/preview.png)
 
-Dex Explorer is an extended version of Moon's Dex, made to fulfill some Moon's Dex prophecy.
+DeX Explorer is an extended version of Moon's Dex, made to fulfill some Moon's Dex prophecy.
 
 ## Latest Version Script
 ```lua
-loadstring(game:HttpGet("https://github.com/FusionWTF/Dex-Explorer/releases/download/s/out.lua"))()
+loadstring(game:HttpGet("https://github.com/FusionWTF/Dex-Explorer/releases/download/Beta/out.lua"))()
 ```
-For specific versions, go to [releases](https://github.com/AZYsGithub/DexPlusPlus/releases).
+For specific versions, go to [releases](https://github.com/FusionWTF/DeX-Explorer/releases).
 
-## What's the difference between Dex and Dex Explorer?
+## What's the difference between Dex and DeX Explorer?
 Since the original Dex is the last release and Moon have discontinued it, it still has some missing features.
-Here are the features that were added/fixed in Dex Explorer
+Here are the features that were added/fixed in DeX Explorer
 - Using New Roblox Studio Icons
 - Updated API
 - Uses Konstant as fallback decompiler (for shitsploits who doesn't have it)
@@ -44,7 +44,7 @@ Every donation is highly apreciated, this is compeletely optional.
 - [UniversalSynapseSaveInstance (USSI)](https://github.com/luau/UniversalSynSaveInstance)
 
 ## License
-[![Dex Explorer License](https://img.shields.io/badge/Dex++-License-green)](https://github.com/AZYsGithub/DexPlusPlus/blob/main/LICENSE)
+[![DeX Explorer License](https://img.shields.io/badge/Dex++-License-green)](https://github.com/AZYsGithub/DexPlusPlus/blob/main/LICENSE)
 
 [![USSI License](https://img.shields.io/badge/USSI-License-green)](https://github.com/luau/UniversalSynSaveInstance/blob/main/LICENSE)
 
