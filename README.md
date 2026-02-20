@@ -34,7 +34,7 @@ Here are the features that were added/fixed in DeX Explorer
 The concept of the Dex roadmap is amazing, however neither me nor Moon have the ability to fulfil the full roadmap. I did have added few stuffs in my fork but mostly of them are beyond my limit and i did this project for fun.
 
 ## Our Discord Server
-https://discord.gg/s76Z79RxXr
+https://discord.gg/VwXz2yxgqw
 
 ## Donation
 Every donation is highly apreciated, this is compeletely optional.
